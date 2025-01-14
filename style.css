@@ -1,0 +1,28 @@
+.header1{
+    margin: -8px;
+}
+
+.container1{
+    margin: 0;
+    background-color: beige;
+}
+
+.raw1{
+    background-color: red;
+    width: 100%;
+}
+
+.col1{
+    background-color: blue;
+    width: 20%;
+}
+
+.col2{
+    background-color: green;
+    width: 50%;
+}
+
+.footer1{
+    background-color: aliceblue;
+    width: 100%;
+}
