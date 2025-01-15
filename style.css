@@ -1,3 +1,5 @@
+
+
 .header1{
     margin: -8px;
 }
@@ -17,6 +19,33 @@
     width: 20%;
 }
 
+.typing{
+    width: 20ch;
+    overflow: hidden;
+    text-wrap: wrap;
+    animation: typing 3s
+      steps(20) infinite
+      alternate-reverse;
+}
+
+@keyframes typing {
+    from { width: 0ch; }
+
+}
+
+.test1{
+    background-color: pink;
+}
+
+
+.test2{
+    margin: 50px 500px 0px 334px;
+    border: 3px solid cyan;
+    box-shadow: 0px 0px 15px cyan,
+    0px 0px 15px cyan inset;
+
+
+}
 .col2{
     background-color: green;
     width: 50%;
